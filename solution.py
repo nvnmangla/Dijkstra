@@ -115,16 +115,14 @@ while flag == False:
         print("You have entered an invalid value, try again\n")
 
 
-##### Change Your Path here #################
-#############################################
-path = "/home/naveen/ENPM663/proj2_naveen_mangla/"
+
 #############################################
 
 OpenList[start] = 0
 prob[start] = 0
 closedList.append(start)
 node = start
-out = cv2.VideoWriter(path + 'project.avi',cv2.VideoWriter_fourcc(*'DIVX'),400,(display.shape[1], display.shape[0]))
+out = cv2.VideoWriter('project.mp4',cv2.VideoWriter_fourcc(*'mp4v'),1000,(display.shape[1], display.shape[0]))
 while node != goal:
     OpenList = dict(sorted(OpenList.items(), key=lambda item: item[1]))
     node = list(OpenList.keys())[0]
