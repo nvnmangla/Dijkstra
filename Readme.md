@@ -15,4 +15,4 @@ python3 solution.py
 ```
 
 ## Results 
-![Dijkstra](git@github.com:nvnmangla/Dijkstra.git)
+![Dijkstra](https://github.com/nvnmangla/Dijkstra/blob/6b4dedb671a3edc46bf8d89c3cde8b0793ceb3eb/project.gif)
