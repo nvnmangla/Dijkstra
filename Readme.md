@@ -15,8 +15,9 @@ python3 solution.py
 ```
 
 ## Results 
-
+The results are generated with 
+Start - (10,10)
+End - (200,150) 
 <p align="center">
   <img width="230" src="https://github.com/nvnmangla/Dijkstra/blob/8af297daae174352b766e6e3627a4ba3474e7703/project.gif">
 </p>
-<br />
