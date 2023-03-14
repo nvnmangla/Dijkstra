@@ -17,6 +17,6 @@ python3 solution.py
 ## Results 
 
 <p align="center">
-  <img width="460" height="460" src="https://github.com/nvnmangla/Dijkstra/blob/8af297daae174352b766e6e3627a4ba3474e7703/project.gif">
+  <img width="230" src="https://github.com/nvnmangla/Dijkstra/blob/8af297daae174352b766e6e3627a4ba3474e7703/project.gif">
 </p>
 <br />
