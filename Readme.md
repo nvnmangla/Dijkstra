@@ -15,4 +15,8 @@ python3 solution.py
 ```
 
 ## Results 
-![Dijkstra](https://github.com/nvnmangla/Dijkstra/blob/6b4dedb671a3edc46bf8d89c3cde8b0793ceb3eb/project.gif)
+
+<p align="center">
+  <img width="460" height="460" src="https://github.com/nvnmangla/Dijkstra/blob/8af297daae174352b766e6e3627a4ba3474e7703/project.gif">
+</p>
+<br />
